@@ -22,7 +22,7 @@ int main(int argc, char *argv[]) {
   else
     ps.entry()->print(std::cout);
   
-  std::cout << '\n'
+  std::cout << '\n';
 
   return 0;
 }
