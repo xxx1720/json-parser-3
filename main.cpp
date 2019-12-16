@@ -9,7 +9,7 @@ using namespace jsonparser;
 
 int main(int argc, char *argv[]) {
   if (argc < 2) {
-    std::cout << argv[0] << " <filename> [-f]";
+    std::cout << argv[0] << " <filename> [-f]\n";
     return 0;
   }
 
