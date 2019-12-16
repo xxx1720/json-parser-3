@@ -1,6 +1,7 @@
 #include "jsonparser.h"
 #include <iostream>
 #include <memory>
+#include <string.h>
 
 
 using namespace std;
