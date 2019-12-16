@@ -21,6 +21,8 @@ int main(int argc, char *argv[]) {
     ps.entry()->print(std::cout, true);
   else
     ps.entry()->print(std::cout);
+  
+  std::cout << '\n'
 
   return 0;
 }
